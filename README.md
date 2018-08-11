@@ -25,6 +25,14 @@ npm run lint
 npm run test:unit
 ```
 
+## 部署方案
+  1.  前往https://github.com/SudaVideo/sudavideo-vue/releases 下载最新zip包
+  2.  解压，把index.html中的apiUrl改成自己的
+  3.  部署到网站根目录
+ 
+## 补充说明
+    本项目仅用于学习,任何单位或个人不得将项目用于商业目的。
+
 ## 如果觉得本项目对你有帮助，欢迎捐赠
 
 | 微信 | 红包码 | 支付宝 |
